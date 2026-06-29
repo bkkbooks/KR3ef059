@@ -1,0 +1,6293 @@
+canonical_identifier: bkk:krp/KR3ef059/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ef059/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 皇漢醫學
+  identifiers:
+    krp: KR3ef059
+  tags:
+    kr-categories: KR3ef
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef059.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ef059_000-jc.yaml, hash: 'sha256:dd382ec247a968df39c983ae4307272b2df238f2ba2bfdeca4b53486d0656810'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ef059_000-jc.markers.yaml, hash: 'sha256:c870682a3ff5e1a5f19b9f043d7db134d5d9eaf94160609d3ff25d84c29c3af5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 240
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d3.h1s1
+    span:
+    - front
+    - 240
+    - 588
+  label: 皇漢醫學序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 713
+  label: 緒言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5.h1s1
+    span:
+    - body
+    - 713
+    - 23349
+  label: 總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5d2
+    span:
+    - body
+    - 715
+    - 1278
+  label: 中西醫學之比較概論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5d3
+    span:
+    - body
+    - 1278
+    - 2507
+  label: 表裡半表半裡內外陰陽虛實主客本末之界說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5d4
+    span:
+    - body
+    - 2507
+    - 3276
+  label: 腹證及診腹法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5d5
+    span:
+    - body
+    - 3276
+    - 4196
+  label: 腹證及診腹法之重要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5d6
+    span:
+    - body
+    - 4196
+    - 10255
+  label: 脈應及診脈法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5d7
+    span:
+    - body
+    - 10255
+    - 10607
+  label: 論西醫強心藥之無謂
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5d8
+    span:
+    - body
+    - 10607
+    - 14081
+  label: 論瘀血之毒害
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5d9
+    span:
+    - body
+    - 14081
+    - 14678
+  label: 瘀血之腹證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5d10
+    span:
+    - body
+    - 14678
+    - 15140
+  label: 瘀血之脈應
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5d11
+    span:
+    - body
+    - 15140
+    - 17444
+  label: 瘀血之外證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5d12
+    span:
+    - body
+    - 17444
+    - 18319
+  label: 論傳染病若不以自家中毒為前提則不能成立
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5d13
+    span:
+    - body
+    - 18319
+    - 19047
+  label: 論多數傳染病不當一以其病原體為斷宜隨其發現證治之
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5d14
+    span:
+    - body
+    - 19047
+    - 20385
+  label: 中醫之傳染病療法以驅逐細菌性毒素為主
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5d15
+    span:
+    - body
+    - 20385
+    - 20882
+  label: 論西醫偏於局部的療法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5d16
+    span:
+    - body
+    - 20882
+    - 21225
+  label: 論中醫之鎮痛療法為原因療法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5d17
+    span:
+    - body
+    - 21225
+    - 21411
+  label: 論中醫方劑為期待復合作用之發顯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5d18
+    span:
+    - body
+    - 21411
+    - 22096
+  label: 論中醫方劑能於一方中發揮多數之能力
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5d19
+    span:
+    - body
+    - 22096
+    - 22626
+  label: 論中醫方劑之藥物配合法極巧妙之能事
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5d20
+    span:
+    - body
+    - 22626
+    - 22854
+  label: 論中醫方劑有適宜加減其溫度之理
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d5d21
+    span:
+    - body
+    - 22854
+    - 23349
+  label: 論中醫治療中瞑眩症狀之發起者為原因療法之確證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.h1s1
+    span:
+    - body
+    - 23349
+    - 352376
+  label: 別論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6d2
+    span:
+    - body
+    - 23351
+    - 23935
+  label: 傷寒論之大意
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6d3
+    span:
+    - body
+    - 23935
+    - 106738
+  label: 太陽病篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d2
+    span:
+    - body
+    - 23939
+    - 24493
+  label: 太陽病之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d3
+    span:
+    - body
+    - 24493
+    - 27731
+  label: 桂枝湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d4
+    span:
+    - body
+    - 27731
+    - 28561
+  label: 桂枝湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d4d6
+    span:
+    - body
+    - 27952
+    - 28561
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d5
+    span:
+    - body
+    - 28561
+    - 30239
+  label: 桂枝之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d6
+    span:
+    - body
+    - 30239
+    - 30633
+  label: 芍藥之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d7
+    span:
+    - body
+    - 30633
+    - 30832
+  label: 芍藥應用上之注意
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d8
+    span:
+    - body
+    - 30832
+    - 31211
+  label: 大棗之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d9
+    span:
+    - body
+    - 31211
+    - 32735
+  label: 甘草之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d10
+    span:
+    - body
+    - 32735
+    - 33167
+  label: 生薑之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d11
+    span:
+    - body
+    - 33167
+    - 33673
+  label: 桂枝加桂湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d12
+    span:
+    - body
+    - 33673
+    - 33914
+  label: 桂枝加芍藥湯及桂枝加芍藥大黃湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d13
+    span:
+    - body
+    - 33914
+    - 34826
+  label: 桂枝加芍藥湯及桂枝加芍藥大黃湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d13d6
+    span:
+    - body
+    - 34215
+    - 34826
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d14
+    span:
+    - body
+    - 34826
+    - 35062
+  label: 桂枝去芍藥湯之注釋與腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d15
+    span:
+    - body
+    - 35062
+    - 35308
+  label: 桂枝加葛根湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d16
+    span:
+    - body
+    - 35308
+    - 35459
+  label: 瓜蔞桂枝湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d17
+    span:
+    - body
+    - 35459
+    - 36236
+  label: 瓜蔞根之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d18
+    span:
+    - body
+    - 36236
+    - 36401
+  label: 藥物之醫治效用僅由其主要成分之性能不能判定
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d19
+    span:
+    - body
+    - 36401
+    - 37425
+  label: 桂枝加黃耆湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d20
+    span:
+    - body
+    - 37425
+    - 37695
+  label: 黃耆之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d21
+    span:
+    - body
+    - 37695
+    - 38558
+  label: 桂枝加芍藥生薑人參湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d21d16
+    span:
+    - body
+    - 38203
+    - 38558
+  label: 先輩之治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d22
+    span:
+    - body
+    - 38558
+    - 39242
+  label: 人參之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d23
+    span:
+    - body
+    - 39242
+    - 39631
+  label: 桂枝加厚朴杏子湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d23d20
+    span:
+    - body
+    - 39549
+    - 39631
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d24
+    span:
+    - body
+    - 39631
+    - 39955
+  label: 桂枝加附子湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d25
+    span:
+    - body
+    - 39955
+    - 41381
+  label: 桂枝加苓朮附湯之鄙見
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d25d4
+    span:
+    - body
+    - 40153
+    - 41381
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d26
+    span:
+    - body
+    - 41381
+    - 42738
+  label: 附子烏頭之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d27
+    span:
+    - body
+    - 42738
+    - 42877
+  label: 桂枝去芍藥加附子湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d28
+    span:
+    - body
+    - 42877
+    - 43134
+  label: 桂枝附子湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d29
+    span:
+    - body
+    - 43134
+    - 43407
+  label: 桂枝附子去桂加朮湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d30
+    span:
+    - body
+    - 43407
+    - 43895
+  label: 甘草附子湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d31
+    span:
+    - body
+    - 43895
+    - 44703
+  label: 桂枝去芍藥加茯芩白朮湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d32
+    span:
+    - body
+    - 44703
+    - 45662
+  label: 茯苓之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d33
+    span:
+    - body
+    - 45662
+    - 47660
+  label: 朮之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d34
+    span:
+    - body
+    - 47660
+    - 48171
+  label: 千金桂枝去芍藥加皂莢湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d35
+    span:
+    - body
+    - 48171
+    - 48279
+  label: 皂莢丸之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d36
+    span:
+    - body
+    - 48279
+    - 48446
+  label: 皂莢之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d37
+    span:
+    - body
+    - 48446
+    - 49195
+  label: 桂枝加龍骨牡蠣湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d37d14
+    span:
+    - body
+    - 48816
+    - 49195
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d38
+    span:
+    - body
+    - 49195
+    - 49704
+  label: 桂枝去芍藥加蜀漆龍骨牡蠣湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d39
+    span:
+    - body
+    - 49704
+    - 49977
+  label: 桂枝甘草龍骨牡蠣湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d40
+    span:
+    - body
+    - 49977
+    - 50094
+  label: 蜀漆之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d41
+    span:
+    - body
+    - 50094
+    - 51000
+  label: 牡蠣之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d42
+    span:
+    - body
+    - 51000
+    - 51124
+  label: 龍骨之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d43
+    span:
+    - body
+    - 51124
+    - 53188
+  label: 小建中湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d43d56
+    span:
+    - body
+    - 52281
+    - 53188
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d44
+    span:
+    - body
+    - 53188
+    - 53598
+  label: 黃耆建中湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d44d16
+    span:
+    - body
+    - 53490
+    - 53598
+  label: 先輩之治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d45
+    span:
+    - body
+    - 53598
+    - 53792
+  label: 當歸建中湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d46
+    span:
+    - body
+    - 53792
+    - 54550
+  label: 當歸建中湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d46d4
+    span:
+    - body
+    - 53868
+    - 54403
+  label: 先輩之治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d46d5
+    span:
+    - body
+    - 54403
+    - 54550
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d47
+    span:
+    - body
+    - 54550
+    - 55516
+  label: 黃耆及建中劑不可應用於肺結核
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d48
+    span:
+    - body
+    - 55516
+    - 55831
+  label: 膠飴之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d49
+    span:
+    - body
+    - 55831
+    - 56297
+  label: 黃耆桂枝五物湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d49d20
+    span:
+    - body
+    - 56119
+    - 56297
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d50
+    span:
+    - body
+    - 56297
+    - 56510
+  label: 知覺麻痹者非因知覺神經之原發的病變因病毒而引起續發的知覺神經病變之結果也
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d51
+    span:
+    - body
+    - 56510
+    - 56893
+  label: 黃耆芍藥桂枝苦酒湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d52
+    span:
+    - body
+    - 56893
+    - 57280
+  label: 防己茯苓湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d52d18
+    span:
+    - body
+    - 57132
+    - 57280
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d53
+    span:
+    - body
+    - 57280
+    - 57843
+  label: 防己黃耆湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d53d20
+    span:
+    - body
+    - 57503
+    - 57843
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d54
+    span:
+    - body
+    - 57843
+    - 58016
+  label: 桂枝甘草湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d55
+    span:
+    - body
+    - 58016
+    - 58179
+  label: 桂枝甘草湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d56
+    span:
+    - body
+    - 58179
+    - 58676
+  label: 半夏散及湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d56d18
+    span:
+    - body
+    - 58525
+    - 58676
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d57
+    span:
+    - body
+    - 58676
+    - 59007
+  label: 桂枝人參湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d57d16
+    span:
+    - body
+    - 58906
+    - 59007
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d58
+    span:
+    - body
+    - 59007
+    - 59339
+  label: 腎著湯苓薑朮甘湯甘草乾薑茯苓白朮湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d59
+    span:
+    - body
+    - 59339
+    - 60423
+  label: 苓薑朮甘湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d59d4
+    span:
+    - body
+    - 59697
+    - 60423
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d60
+    span:
+    - body
+    - 60423
+    - 60651
+  label: 乾薑之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d61
+    span:
+    - body
+    - 60651
+    - 62341
+  label: 芩桂朮甘湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d62
+    span:
+    - body
+    - 62341
+    - 64364
+  label: 苓桂朮甘湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d62d6
+    span:
+    - body
+    - 62798
+    - 64364
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d63
+    span:
+    - body
+    - 64364
+    - 64437
+  label: 苓桂甘棗湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d64
+    span:
+    - body
+    - 64437
+    - 65006
+  label: 苓桂甘棗湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d64d4
+    span:
+    - body
+    - 64597
+    - 65006
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d65
+    span:
+    - body
+    - 65006
+    - 65813
+  label: 苓桂五味甘草湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d65d16
+    span:
+    - body
+    - 65616
+    - 65813
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d66
+    span:
+    - body
+    - 65813
+    - 65986
+  label: 苓甘五味薑辛湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d67
+    span:
+    - body
+    - 65986
+    - 66402
+  label: 苓甘五味薑辛夏湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d67d14
+    span:
+    - body
+    - 66297
+    - 66402
+  label: 先輩之治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d68
+    span:
+    - body
+    - 66402
+    - 66730
+  label: 苓甘五味薑辛夏仁湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d69
+    span:
+    - body
+    - 66730
+    - 67273
+  label: 苓甘薑味辛夏仁黃湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d69d16
+    span:
+    - body
+    - 67093
+    - 67273
+  label: 先輩之治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d70
+    span:
+    - body
+    - 67273
+    - 67466
+  label: 五味子之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d71
+    span:
+    - body
+    - 67466
+    - 67820
+  label: 細辛之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d72
+    span:
+    - body
+    - 67820
+    - 68150
+  label: 澤瀉湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d72d18
+    span:
+    - body
+    - 68111
+    - 68150
+  label: 先輩之治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d73
+    span:
+    - body
+    - 68150
+    - 68502
+  label: 澤瀉之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d74
+    span:
+    - body
+    - 68502
+    - 69732
+  label: 茯苓澤瀉湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d74d16
+    span:
+    - body
+    - 68738
+    - 69732
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d75
+    span:
+    - body
+    - 69732
+    - 70412
+  label: 茯苓甘草湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d75d22
+    span:
+    - body
+    - 70080
+    - 70412
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d76
+    span:
+    - body
+    - 70412
+    - 73143
+  label: 五苓散之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d76d64
+    span:
+    - body
+    - 72039
+    - 73143
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d77
+    span:
+    - body
+    - 73143
+    - 73549
+  label: 茵陳五苓散之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d77d18
+    span:
+    - body
+    - 73361
+    - 73549
+  label: 先輩之治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d78
+    span:
+    - body
+    - 73549
+    - 74808
+  label: 豬苓湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d78d54
+    span:
+    - body
+    - 74376
+    - 74808
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d79
+    span:
+    - body
+    - 74808
+    - 75096
+  label: 豬苓之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d80
+    span:
+    - body
+    - 75096
+    - 75238
+  label: 阿膠之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d81
+    span:
+    - body
+    - 75238
+    - 75516
+  label: 滑石之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d82
+    span:
+    - body
+    - 75516
+    - 75738
+  label: 牡蠣澤瀉散之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d82d14
+    span:
+    - body
+    - 75627
+    - 75738
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d83
+    span:
+    - body
+    - 75738
+    - 75865
+  label: 葶藶之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d84
+    span:
+    - body
+    - 75865
+    - 75942
+  label: 商陸之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d85
+    span:
+    - body
+    - 75942
+    - 76060
+  label: 海藻之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d86
+    span:
+    - body
+    - 76060
+    - 77361
+  label: 八味丸之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d87
+    span:
+    - body
+    - 77361
+    - 77977
+  label: 八味丸之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d87d4
+    span:
+    - body
+    - 77546
+    - 77977
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d88
+    span:
+    - body
+    - 77977
+    - 78374
+  label: 地黃之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d89
+    span:
+    - body
+    - 78374
+    - 78451
+  label: 薯蕷之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d90
+    span:
+    - body
+    - 78451
+    - 78597
+  label: 山茱萸之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d91
+    span:
+    - body
+    - 78597
+    - 81263
+  label: 麻黃湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d91d66
+    span:
+    - body
+    - 80160
+    - 81263
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d92
+    span:
+    - body
+    - 81263
+    - 82103
+  label: 麻黃之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d93
+    span:
+    - body
+    - 82103
+    - 82914
+  label: 杏仁之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d94
+    span:
+    - body
+    - 82914
+    - 83320
+  label: 麻黃加朮湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d94d16
+    span:
+    - body
+    - 83101
+    - 83320
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d95
+    span:
+    - body
+    - 83320
+    - 84402
+  label: 甘草麻黃湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d95d34
+    span:
+    - body
+    - 83798
+    - 84402
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d96
+    span:
+    - body
+    - 84402
+    - 84913
+  label: 麻黃附子甘草湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d97
+    span:
+    - body
+    - 84913
+    - 85455
+  label: 麻黃附子細辛湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d97d14
+    span:
+    - body
+    - 85055
+    - 85455
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d98
+    span:
+    - body
+    - 85455
+    - 86044
+  label: 麻黃杏仁甘草石膏湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d98d14
+    span:
+    - body
+    - 85756
+    - 86044
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d99
+    span:
+    - body
+    - 86044
+    - 86604
+  label: 麻黃杏仁薏苡甘草湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d99d18
+    span:
+    - body
+    - 86307
+    - 86604
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d100
+    span:
+    - body
+    - 86604
+    - 87424
+  label: 薏苡仁之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d101
+    span:
+    - body
+    - 87424
+    - 87552
+  label: 牡蠣湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d101d14
+    span:
+    - body
+    - 87492
+    - 87552
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d102
+    span:
+    - body
+    - 87552
+    - 87911
+  label: 桂枝二麻黃一湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d102d14
+    span:
+    - body
+    - 87766
+    - 87911
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d103
+    span:
+    - body
+    - 87911
+    - 88467
+  label: 桂枝麻黃各半湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d103d14
+    span:
+    - body
+    - 88320
+    - 88467
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d104
+    span:
+    - body
+    - 88467
+    - 89010
+  label: 桂枝去芍藥加麻黃附子細辛湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d105
+    span:
+    - body
+    - 89010
+    - 89397
+  label: 桂枝芍藥知母湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d105d20
+    span:
+    - body
+    - 89311
+    - 89397
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d106
+    span:
+    - body
+    - 89397
+    - 89630
+  label: 防風之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d107
+    span:
+    - body
+    - 89630
+    - 90425
+  label: 續命湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d107d14
+    span:
+    - body
+    - 89879
+    - 90425
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d108
+    span:
+    - body
+    - 90425
+    - 90732
+  label: 麻黃連軺赤小豆湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d108d18
+    span:
+    - body
+    - 90651
+    - 90732
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d109
+    span:
+    - body
+    - 90732
+    - 91039
+  label: 連翹之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d110
+    span:
+    - body
+    - 91039
+    - 91180
+  label: 赤小豆之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d111
+    span:
+    - body
+    - 91180
+    - 91297
+  label: 桑白皮之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d112
+    span:
+    - body
+    - 91297
+    - 91688
+  label: 射干麻黃湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d112d14
+    span:
+    - body
+    - 91475
+    - 91688
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d113
+    span:
+    - body
+    - 91688
+    - 91786
+  label: 射干之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d114
+    span:
+    - body
+    - 91786
+    - 91891
+  label: 紫菀之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d115
+    span:
+    - body
+    - 91891
+    - 91963
+  label: 款冬花之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d116
+    span:
+    - body
+    - 91963
+    - 92180
+  label: 厚朴麻黃湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d117
+    span:
+    - body
+    - 92180
+    - 93652
+  label: 小青龍湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d117d34
+    span:
+    - body
+    - 92922
+    - 93652
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d118
+    span:
+    - body
+    - 93652
+    - 93966
+  label: 小青龍湯加石膏之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d118d16
+    span:
+    - body
+    - 93815
+    - 93966
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d119
+    span:
+    - body
+    - 93966
+    - 96249
+  label: 大青龍湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d119d36
+    span:
+    - body
+    - 95219
+    - 96249
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d120
+    span:
+    - body
+    - 96249
+    - 96492
+  label: 文蛤湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d121
+    span:
+    - body
+    - 96492
+    - 96538
+  label: 文蛤散之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d122
+    span:
+    - body
+    - 96538
+    - 96576
+  label: 文蛤之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d123
+    span:
+    - body
+    - 96576
+    - 97532
+  label: 越婢湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d123d14
+    span:
+    - body
+    - 96735
+    - 97532
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d124
+    span:
+    - body
+    - 97532
+    - 98038
+  label: 越婢加半夏湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d124d18
+    span:
+    - body
+    - 97728
+    - 98038
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d125
+    span:
+    - body
+    - 98038
+    - 98274
+  label: 桂枝二越婢一湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d125d14
+    span:
+    - body
+    - 98186
+    - 98274
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d126
+    span:
+    - body
+    - 98274
+    - 99621
+  label: 葛根湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d127
+    span:
+    - body
+    - 99621
+    - 104294
+  label: 葛根加半夏湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d127d94
+    span:
+    - body
+    - 100495
+    - 104294
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d128
+    span:
+    - body
+    - 104294
+    - 104523
+  label: 葛根之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d129
+    span:
+    - body
+    - 104523
+    - 105249
+  label: 葛根黃連黃芩湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3.d129d16
+    span:
+    - body
+    - 104887
+    - 105249
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d130
+    span:
+    - body
+    - 105249
+    - 105617
+  label: 發汗劑之禁忌
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d3d131
+    span:
+    - body
+    - 105617
+    - 106738
+  label: 應用發汗劑之科學的根據
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6d4
+    span:
+    - body
+    - 106738
+    - 226912
+  label: 少陽病篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d2
+    span:
+    - body
+    - 106742
+    - 107969
+  label: 少陽病之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d3
+    span:
+    - body
+    - 107969
+    - 118833
+  label: 小柴胡湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d4
+    span:
+    - body
+    - 118833
+    - 119021
+  label: 合方之方法共通藥物以多量者為合方之用量
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d5
+    span:
+    - body
+    - 119021
+    - 126719
+  label: 小柴胡湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d5d4
+    span:
+    - body
+    - 119368
+    - 126719
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d6
+    span:
+    - body
+    - 126719
+    - 129463
+  label: 論古方與後世方之關係
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d7
+    span:
+    - body
+    - 129463
+    - 130277
+  label: 柴胡之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d8
+    span:
+    - body
+    - 130277
+    - 131661
+  label: 半夏之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d9
+    span:
+    - body
+    - 131661
+    - 131977
+  label: 柴胡加芒硝湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d10
+    span:
+    - body
+    - 131977
+    - 132345
+  label: 柴胡去半夏加瓜蔞湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d11
+    span:
+    - body
+    - 132345
+    - 133955
+  label: 柴胡桂枝湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d11d32
+    span:
+    - body
+    - 132897
+    - 133955
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d12
+    span:
+    - body
+    - 133955
+    - 134494
+  label: 柴胡桂枝乾薑湯柴胡薑桂湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d13
+    span:
+    - body
+    - 134494
+    - 138879
+  label: 柴胡桂枝乾薑湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d13d4
+    span:
+    - body
+    - 134637
+    - 138879
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d14
+    span:
+    - body
+    - 138879
+    - 141148
+  label: 柴胡加龍骨牡蠣湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d14d22
+    span:
+    - body
+    - 139378
+    - 141148
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d15
+    span:
+    - body
+    - 141148
+    - 141371
+  label: 鉛丹之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d16
+    span:
+    - body
+    - 141371
+    - 143260
+  label: 大柴胡湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d17
+    span:
+    - body
+    - 143260
+    - 150080
+  label: 大柴胡湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d17d4
+    span:
+    - body
+    - 143431
+    - 150080
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d18
+    span:
+    - body
+    - 150080
+    - 150459
+  label: 四逆散之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d19
+    span:
+    - body
+    - 150459
+    - 151827
+  label: 四逆散之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d19d4
+    span:
+    - body
+    - 150610
+    - 151827
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d20
+    span:
+    - body
+    - 151827
+    - 152479
+  label: 枳朮湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d20d16
+    span:
+    - body
+    - 152120
+    - 152479
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d21
+    span:
+    - body
+    - 152479
+    - 152783
+  label: 枳實芍藥散之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d22
+    span:
+    - body
+    - 152783
+    - 152933
+  label: 枳實芍藥散之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d22d4
+    span:
+    - body
+    - 152829
+    - 152933
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d23
+    span:
+    - body
+    - 152933
+    - 153185
+  label: 排膿散之補遺
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d24
+    span:
+    - body
+    - 153185
+    - 153798
+  label: 排膿散之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d24d4
+    span:
+    - body
+    - 153247
+    - 153798
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d25
+    span:
+    - body
+    - 153798
+    - 154485
+  label: 桂枝生薑枳實湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d25d16
+    span:
+    - body
+    - 154110
+    - 154485
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d26
+    span:
+    - body
+    - 154485
+    - 154944
+  label: 茯苓杏仁甘草湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d26d14
+    span:
+    - body
+    - 154846
+    - 154944
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d27
+    span:
+    - body
+    - 154944
+    - 155256
+  label: 橘皮枳實生薑湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d27d8
+    span:
+    - body
+    - 155022
+    - 155256
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d28
+    span:
+    - body
+    - 155256
+    - 155699
+  label: 橘皮之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d29
+    span:
+    - body
+    - 155699
+    - 156219
+  label: 橘皮湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d29d14
+    span:
+    - body
+    - 155801
+    - 156219
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d30
+    span:
+    - body
+    - 156219
+    - 156773
+  label: 橘皮竹茹湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d30d16
+    span:
+    - body
+    - 156406
+    - 156773
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d31
+    span:
+    - body
+    - 156773
+    - 156896
+  label: 茯苓飲苓朮枳橘薑參之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d32
+    span:
+    - body
+    - 156896
+    - 157685
+  label: 茯芩飲之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d32d4
+    span:
+    - body
+    - 157028
+    - 157685
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d33
+    span:
+    - body
+    - 157685
+    - 158297
+  label: 枳實薤白桂枝湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d33d18
+    span:
+    - body
+    - 157903
+    - 158297
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d34
+    span:
+    - body
+    - 158297
+    - 158593
+  label: 薤白之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d35
+    span:
+    - body
+    - 158593
+    - 158847
+  label: 瓜蔞實之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d36
+    span:
+    - body
+    - 158847
+    - 159315
+  label: 瓜蔞薤白白酒湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d36d20
+    span:
+    - body
+    - 159145
+    - 159315
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d37
+    span:
+    - body
+    - 159315
+    - 159669
+  label: 瓜蔞薤白半夏湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d37d14
+    span:
+    - body
+    - 159514
+    - 159669
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d38
+    span:
+    - body
+    - 159669
+    - 160096
+  label: 甘草湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d38d14
+    span:
+    - body
+    - 159808
+    - 160096
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d39
+    span:
+    - body
+    - 160096
+    - 161164
+  label: 桔梗湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d39d22
+    span:
+    - body
+    - 160562
+    - 161164
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d40
+    span:
+    - body
+    - 161164
+    - 162001
+  label: 排膿湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d40d18
+    span:
+    - body
+    - 161519
+    - 162001
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d41
+    span:
+    - body
+    - 162001
+    - 162313
+  label: 桔梗之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d42
+    span:
+    - body
+    - 162313
+    - 162584
+  label: 芍藥甘草湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d43
+    span:
+    - body
+    - 162584
+    - 163273
+  label: 芍藥甘草湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d43d4
+    span:
+    - body
+    - 162682
+    - 163273
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d44
+    span:
+    - body
+    - 163273
+    - 163402
+  label: 芍藥甘草附子湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d45
+    span:
+    - body
+    - 163402
+    - 163763
+  label: 芍藥甘草附子湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d45d4
+    span:
+    - body
+    - 163520
+    - 163763
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d46
+    span:
+    - body
+    - 163763
+    - 163895
+  label: 甘草小麥大棗湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d47
+    span:
+    - body
+    - 163895
+    - 164446
+  label: 甘草小麥大棗湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d47d4
+    span:
+    - body
+    - 163940
+    - 164446
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d48
+    span:
+    - body
+    - 164446
+    - 164604
+  label: 小麥之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d49
+    span:
+    - body
+    - 164604
+    - 165366
+  label: 甘草粉蜜湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d49d22
+    span:
+    - body
+    - 165202
+    - 165366
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d50
+    span:
+    - body
+    - 165366
+    - 165586
+  label: 生薑甘草湯生薑甘草大棗人參之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d51
+    span:
+    - body
+    - 165586
+    - 166393
+  label: 甘遂半夏湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d51d20
+    span:
+    - body
+    - 166100
+    - 166393
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d52
+    span:
+    - body
+    - 166393
+    - 168027
+  label: 十棗湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d52d38
+    span:
+    - body
+    - 167326
+    - 168027
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d53
+    span:
+    - body
+    - 168027
+    - 168333
+  label: 葶藶大棗瀉肺湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d53d20
+    span:
+    - body
+    - 168200
+    - 168333
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d54
+    span:
+    - body
+    - 168333
+    - 168733
+  label: 甘遂大戟芫花葶藶之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d55
+    span:
+    - body
+    - 168733
+    - 170965
+  label: 大陷胸湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d55d48
+    span:
+    - body
+    - 170186
+    - 170965
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d56
+    span:
+    - body
+    - 170965
+    - 171729
+  label: 大陷胸丸之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d56d24
+    span:
+    - body
+    - 171614
+    - 171729
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d57
+    span:
+    - body
+    - 171729
+    - 173982
+  label: 小陷胸湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d57d14
+    span:
+    - body
+    - 171995
+    - 173982
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d58
+    span:
+    - body
+    - 173982
+    - 175382
+  label: 桔梗白散之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d58d28
+    span:
+    - body
+    - 174503
+    - 175382
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d59
+    span:
+    - body
+    - 175382
+    - 175512
+  label: 貝母之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d60
+    span:
+    - body
+    - 175512
+    - 184302
+  label: 瓜蒂散之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d60d190
+    span:
+    - body
+    - 181430
+    - 184302
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d61
+    span:
+    - body
+    - 184302
+    - 184541
+  label: 瓜蒂之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d62
+    span:
+    - body
+    - 184541
+    - 185741
+  label: 大黃黃連瀉心湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d62d30
+    span:
+    - body
+    - 185064
+    - 185741
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d63
+    span:
+    - body
+    - 185741
+    - 186758
+  label: 黃連之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d64
+    span:
+    - body
+    - 186758
+    - 190929
+  label: 瀉心湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d64d20
+    span:
+    - body
+    - 187220
+    - 190929
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d65
+    span:
+    - body
+    - 190929
+    - 191542
+  label: 黃芩之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d66
+    span:
+    - body
+    - 191542
+    - 191866
+  label: 附子瀉心湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d66d14
+    span:
+    - body
+    - 191714
+    - 191866
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d67
+    span:
+    - body
+    - 191866
+    - 193683
+  label: 梔子豉湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d67d54
+    span:
+    - body
+    - 193247
+    - 193683
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d68
+    span:
+    - body
+    - 193683
+    - 193945
+  label: 梔子甘草豉湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d68d14
+    span:
+    - body
+    - 193799
+    - 193945
+  label: 先輩之治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d69
+    span:
+    - body
+    - 193945
+    - 194109
+  label: 梔子生薑豉湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d69d14
+    span:
+    - body
+    - 194048
+    - 194109
+  label: 先輩之治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d70
+    span:
+    - body
+    - 194109
+    - 194331
+  label: 枳實梔子豉湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d71
+    span:
+    - body
+    - 194331
+    - 194518
+  label: 枳實梔子豉湯方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d71d6
+    span:
+    - body
+    - 194385
+    - 194518
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d72
+    span:
+    - body
+    - 194518
+    - 194938
+  label: 枳實梔子大黃豉湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d73
+    span:
+    - body
+    - 194938
+    - 195174
+  label: 梔子柏皮湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d73d14
+    span:
+    - body
+    - 195080
+    - 195174
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d74
+    span:
+    - body
+    - 195174
+    - 195663
+  label: 梔子之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d75
+    span:
+    - body
+    - 195663
+    - 195918
+  label: 香豉之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d76
+    span:
+    - body
+    - 195918
+    - 196040
+  label: 黃柏之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d77
+    span:
+    - body
+    - 196040
+    - 196717
+  label: 梔子乾薑湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d77d14
+    span:
+    - body
+    - 196147
+    - 196717
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d78
+    span:
+    - body
+    - 196717
+    - 197340
+  label: 酸棗仁湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d78d14
+    span:
+    - body
+    - 196864
+    - 197340
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d79
+    span:
+    - body
+    - 197340
+    - 197611
+  label: 酸棗仁之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d80
+    span:
+    - body
+    - 197611
+    - 198678
+  label: 黃芩湯及黃芩加半夏生薑湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d80d34
+    span:
+    - body
+    - 198230
+    - 198678
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d81
+    span:
+    - body
+    - 198678
+    - 199149
+  label: 六物黃芩湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d81d14
+    span:
+    - body
+    - 198913
+    - 199149
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d82
+    span:
+    - body
+    - 199149
+    - 199270
+  label: 三物黃芩湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d83
+    span:
+    - body
+    - 199270
+    - 200056
+  label: 三物黃芩湯方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d83d6
+    span:
+    - body
+    - 199296
+    - 200056
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d84
+    span:
+    - body
+    - 200056
+    - 200145
+  label: 苦參之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d85
+    span:
+    - body
+    - 200145
+    - 200582
+  label: 炙甘草湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d86
+    span:
+    - body
+    - 200582
+    - 202009
+  label: 炙甘草湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d86d4
+    span:
+    - body
+    - 200642
+    - 202009
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d87
+    span:
+    - body
+    - 202009
+    - 202131
+  label: 麻子仁之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d88
+    span:
+    - body
+    - 202131
+    - 204069
+  label: 麥門冬湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d88d20
+    span:
+    - body
+    - 202532
+    - 204069
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d89
+    span:
+    - body
+    - 204069
+    - 205892
+  label: 竹葉石膏湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d89d20
+    span:
+    - body
+    - 204464
+    - 205892
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d90
+    span:
+    - body
+    - 205892
+    - 206017
+  label: 竹茹及竹葉之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d91
+    span:
+    - body
+    - 206017
+    - 206501
+  label: 麥門冬之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d92
+    span:
+    - body
+    - 206501
+    - 207309
+  label: 小半夏湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d92d20
+    span:
+    - body
+    - 206807
+    - 207309
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d93
+    span:
+    - body
+    - 207309
+    - 207730
+  label: 小半夏加茯苓湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d94
+    span:
+    - body
+    - 207730
+    - 208727
+  label: 小半夏加茯苓湯方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d94d6
+    span:
+    - body
+    - 207753
+    - 208727
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d95
+    span:
+    - body
+    - 208727
+    - 208912
+  label: 生薑半夏湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d96
+    span:
+    - body
+    - 208912
+    - 209202
+  label: 生薑半夏湯方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d96d6
+    span:
+    - body
+    - 208953
+    - 209202
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d97
+    span:
+    - body
+    - 209202
+    - 209397
+  label: 大半夏湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d98
+    span:
+    - body
+    - 209397
+    - 209769
+  label: 大半夏湯方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d98d6
+    span:
+    - body
+    - 209420
+    - 209769
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d99
+    span:
+    - body
+    - 209769
+    - 209899
+  label: 蜂蜜之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d100
+    span:
+    - body
+    - 209899
+    - 210405
+  label: 半夏苦酒湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d100d14
+    span:
+    - body
+    - 210000
+    - 210405
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d101
+    span:
+    - body
+    - 210405
+    - 213841
+  label: 半夏厚朴湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d101d20
+    span:
+    - body
+    - 211098
+    - 213841
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d102
+    span:
+    - body
+    - 213841
+    - 214291
+  label: 紫蘇葉及子之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d103
+    span:
+    - body
+    - 214291
+    - 214407
+  label: 半夏乾薑散之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d104
+    span:
+    - body
+    - 214407
+    - 215196
+  label: 乾薑半夏人參丸之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d104d14
+    span:
+    - body
+    - 214654
+    - 215196
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d105
+    span:
+    - body
+    - 215196
+    - 216796
+  label: 半夏瀉心湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d105d42
+    span:
+    - body
+    - 215730
+    - 216796
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d106
+    span:
+    - body
+    - 216796
+    - 217401
+  label: 甘草瀉心湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d107
+    span:
+    - body
+    - 217401
+    - 219098
+  label: 甘草瀉心湯方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d107d6
+    span:
+    - body
+    - 217432
+    - 219098
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d108
+    span:
+    - body
+    - 219098
+    - 219398
+  label: 生薑瀉心湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d109
+    span:
+    - body
+    - 219398
+    - 220824
+  label: 生薑瀉心湯方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d109d6
+    span:
+    - body
+    - 219445
+    - 220824
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d110
+    span:
+    - body
+    - 220824
+    - 221454
+  label: 旋覆花代赭石湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d110d18
+    span:
+    - body
+    - 221255
+    - 221454
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d111
+    span:
+    - body
+    - 221454
+    - 221560
+  label: 旋覆花之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d112
+    span:
+    - body
+    - 221560
+    - 221589
+  label: 代赭石之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d113
+    span:
+    - body
+    - 221589
+    - 222273
+  label: 乾薑黃連黃芩人參湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d113d14
+    span:
+    - body
+    - 221895
+    - 222273
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d114
+    span:
+    - body
+    - 222273
+    - 223036
+  label: 黃連湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d114d16
+    span:
+    - body
+    - 222480
+    - 223036
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d115
+    span:
+    - body
+    - 223036
+    - 223714
+  label: 黃連阿膠湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d115d14
+    span:
+    - body
+    - 223290
+    - 223714
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d116
+    span:
+    - body
+    - 223714
+    - 224264
+  label: 白頭翁湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d116d20
+    span:
+    - body
+    - 223855
+    - 224264
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d117
+    span:
+    - body
+    - 224264
+    - 224957
+  label: 白頭翁加甘草阿膠湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d117d14
+    span:
+    - body
+    - 224439
+    - 224957
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d118
+    span:
+    - body
+    - 224957
+    - 225032
+  label: 白頭翁之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d119
+    span:
+    - body
+    - 225032
+    - 225113
+  label: 秦皮之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d120
+    span:
+    - body
+    - 225113
+    - 226131
+  label: 木防己湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d120d20
+    span:
+    - body
+    - 225378
+    - 226131
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d121
+    span:
+    - body
+    - 226131
+    - 226697
+  label: 木防己去石膏加茯苓芒硝湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4.d121d20
+    span:
+    - body
+    - 226375
+    - 226697
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d4d122
+    span:
+    - body
+    - 226697
+    - 226912
+  label: 防己之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6d5
+    span:
+    - body
+    - 226912
+    - 300865
+  label: 陽明病篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d2
+    span:
+    - body
+    - 226916
+    - 229685
+  label: 陽明病之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d3
+    span:
+    - body
+    - 229685
+    - 231709
+  label: 小承氣湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d4
+    span:
+    - body
+    - 231709
+    - 232386
+  label: 小承氣湯方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d4d10
+    span:
+    - body
+    - 231836
+    - 232386
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d5
+    span:
+    - body
+    - 232386
+    - 232648
+  label: 大黃之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d6
+    span:
+    - body
+    - 232648
+    - 234014
+  label: 瀉下藥之應用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d7
+    span:
+    - body
+    - 234014
+    - 234559
+  label: 厚朴之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d8
+    span:
+    - body
+    - 234559
+    - 235221
+  label: 枳實之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d9
+    span:
+    - body
+    - 235221
+    - 236013
+  label: 厚朴三物湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d9d20
+    span:
+    - body
+    - 235463
+    - 236013
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d10
+    span:
+    - body
+    - 236013
+    - 236519
+  label: 厚朴七物湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d10d14
+    span:
+    - body
+    - 236151
+    - 236519
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d11
+    span:
+    - body
+    - 236519
+    - 241225
+  label: 大承氣湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d12
+    span:
+    - body
+    - 241225
+    - 250123
+  label: 大承氣湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d12d10
+    span:
+    - body
+    - 241741
+    - 250123
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d13
+    span:
+    - body
+    - 250123
+    - 251168
+  label: 芒硝之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d14
+    span:
+    - body
+    - 251168
+    - 251891
+  label: 大黃甘草湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d14d22
+    span:
+    - body
+    - 251518
+    - 251891
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d15
+    span:
+    - body
+    - 251891
+    - 254050
+  label: 調胃承氣湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d16
+    span:
+    - body
+    - 254050
+    - 255776
+  label: 調胃承氣湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d16d4
+    span:
+    - body
+    - 254102
+    - 255776
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d17
+    span:
+    - body
+    - 255776
+    - 258707
+  label: 白虎湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d17d46
+    span:
+    - body
+    - 257164
+    - 258707
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d18
+    span:
+    - body
+    - 258707
+    - 259693
+  label: 石膏之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d19
+    span:
+    - body
+    - 259693
+    - 260029
+  label: 知母之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d20
+    span:
+    - body
+    - 260029
+    - 260207
+  label: 粳米之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d21
+    span:
+    - body
+    - 260207
+    - 262301
+  label: 白虎加人參湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d21d62
+    span:
+    - body
+    - 261690
+    - 262301
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d22
+    span:
+    - body
+    - 262301
+    - 262789
+  label: 白虎加桂枝湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d22d14
+    span:
+    - body
+    - 262489
+    - 262789
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d23
+    span:
+    - body
+    - 262789
+    - 263232
+  label: 橘皮大黃芒硝湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d23d16
+    span:
+    - body
+    - 263032
+    - 263232
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d24
+    span:
+    - body
+    - 263232
+    - 265079
+  label: 茵陳蒿湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d24d34
+    span:
+    - body
+    - 263956
+    - 265079
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d25
+    span:
+    - body
+    - 265079
+    - 265260
+  label: 茵陳蒿之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d26
+    span:
+    - body
+    - 265260
+    - 265829
+  label: 大黃硝石湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d26d14
+    span:
+    - body
+    - 265425
+    - 265829
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d27
+    span:
+    - body
+    - 265829
+    - 266210
+  label: 梔子厚朴湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d27d16
+    span:
+    - body
+    - 266021
+    - 266210
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d28
+    span:
+    - body
+    - 266210
+    - 266509
+  label: 厚朴生薑半夏甘草人參湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d28d16
+    span:
+    - body
+    - 266374
+    - 266509
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d29
+    span:
+    - body
+    - 266509
+    - 267267
+  label: 桃核承氣湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d30
+    span:
+    - body
+    - 267267
+    - 273864
+  label: 桃核承氣湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d30d8
+    span:
+    - body
+    - 267967
+    - 273864
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d31
+    span:
+    - body
+    - 273864
+    - 274227
+  label: 桃仁之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d32
+    span:
+    - body
+    - 274227
+    - 274605
+  label: 桂枝茯苓丸之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d33
+    span:
+    - body
+    - 274605
+    - 275985
+  label: 桂枝茯芩丸之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d33d4
+    span:
+    - body
+    - 274872
+    - 275985
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d34
+    span:
+    - body
+    - 275985
+    - 276285
+  label: 牡丹皮之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d35
+    span:
+    - body
+    - 276285
+    - 276695
+  label: 大黃牡丹皮湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d36
+    span:
+    - body
+    - 276695
+    - 279817
+  label: 大黃牡丹皮湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d36d4
+    span:
+    - body
+    - 276906
+    - 279817
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d37
+    span:
+    - body
+    - 279817
+    - 279973
+  label: 冬瓜子之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d38
+    span:
+    - body
+    - 279973
+    - 280820
+  label: 大黃甘遂湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d38d16
+    span:
+    - body
+    - 280207
+    - 280820
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d39
+    span:
+    - body
+    - 280820
+    - 280999
+  label: 下瘀血湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d40
+    span:
+    - body
+    - 280999
+    - 281575
+  label: 下瘀血湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d40d4
+    span:
+    - body
+    - 281065
+    - 281575
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d41
+    span:
+    - body
+    - 281575
+    - 281739
+  label: 蟅蟲之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d42
+    span:
+    - body
+    - 281739
+    - 282276
+  label: 土瓜根散之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d42d18
+    span:
+    - body
+    - 282091
+    - 282276
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d43
+    span:
+    - body
+    - 282276
+    - 282474
+  label: 土瓜根之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d44
+    span:
+    - body
+    - 282474
+    - 283959
+  label: 抵當湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d45
+    span:
+    - body
+    - 283959
+    - 285328
+  label: 抵當湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d45d4
+    span:
+    - body
+    - 284014
+    - 285328
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d46
+    span:
+    - body
+    - 285328
+    - 285439
+  label: 水蛭之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d47
+    span:
+    - body
+    - 285439
+    - 285543
+  label: 虻蟲之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d48
+    span:
+    - body
+    - 285543
+    - 285935
+  label: 抵當丸之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d48d18
+    span:
+    - body
+    - 285806
+    - 285935
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d49
+    span:
+    - body
+    - 285935
+    - 287028
+  label: 大黃蟅蟲丸之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d49d16
+    span:
+    - body
+    - 286211
+    - 287028
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d50
+    span:
+    - body
+    - 287028
+    - 287209
+  label: 蠐螬之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d51
+    span:
+    - body
+    - 287209
+    - 287221
+  label: 乾漆之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d52
+    span:
+    - body
+    - 287221
+    - 288483
+  label: 乾漆
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d52d32
+    span:
+    - body
+    - 287598
+    - 288483
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d53
+    span:
+    - body
+    - 288483
+    - 288724
+  label: 麻子仁丸之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d53d20
+    span:
+    - body
+    - 288689
+    - 288724
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d54
+    span:
+    - body
+    - 288724
+    - 289226
+  label: 蜜煎導及大豬膽汁之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d54d26
+    span:
+    - body
+    - 289058
+    - 289226
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d55
+    span:
+    - body
+    - 289226
+    - 289441
+  label: 己椒藶黃丸之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d55d14
+    span:
+    - body
+    - 289416
+    - 289441
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d56
+    span:
+    - body
+    - 289441
+    - 289573
+  label: 椒目之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d57
+    span:
+    - body
+    - 289573
+    - 292269
+  label: 走馬湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d57d12
+    span:
+    - body
+    - 289762
+    - 292269
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d58
+    span:
+    - body
+    - 292269
+    - 294373
+  label: 備急丸方之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d58d16
+    span:
+    - body
+    - 292700
+    - 294373
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d59
+    span:
+    - body
+    - 294373
+    - 294746
+  label: 巴豆之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d60
+    span:
+    - body
+    - 294746
+    - 296819
+  label: 大黃附子湯大附辛之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d60d20
+    span:
+    - body
+    - 295051
+    - 296819
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d61
+    span:
+    - body
+    - 296819
+    - 297702
+  label: 大烏頭煎之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d61d16
+    span:
+    - body
+    - 297204
+    - 297702
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d62
+    span:
+    - body
+    - 297702
+    - 298517
+  label: 烏頭桂枝湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d62d16
+    span:
+    - body
+    - 297998
+    - 298517
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5d63
+    span:
+    - body
+    - 298517
+    - 300865
+  label: 烏頭湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d5.d63d22
+    span:
+    - body
+    - 298821
+    - 300865
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6d6
+    span:
+    - body
+    - 300865
+    - 322298
+  label: 太陰病篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d2
+    span:
+    - body
+    - 300869
+    - 301610
+  label: 太陰病之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d3
+    span:
+    - body
+    - 301610
+    - 303140
+  label: 甘草乾薑湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6.d3d28
+    span:
+    - body
+    - 302077
+    - 303140
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d4
+    span:
+    - body
+    - 303140
+    - 305395
+  label: 人參湯理中丸之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6.d4d46
+    span:
+    - body
+    - 303996
+    - 305395
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d5
+    span:
+    - body
+    - 305395
+    - 306486
+  label: 大建中湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6.d5d22
+    span:
+    - body
+    - 305832
+    - 306486
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d6
+    span:
+    - body
+    - 306486
+    - 306746
+  label: 蜀椒之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d7
+    span:
+    - body
+    - 306746
+    - 309141
+  label: 吳茱萸湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6.d7d46
+    span:
+    - body
+    - 307866
+    - 309141
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d8
+    span:
+    - body
+    - 309141
+    - 309462
+  label: 吳茱萸之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d9
+    span:
+    - body
+    - 309462
+    - 310158
+  label: 乾薑附子湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6.d9d18
+    span:
+    - body
+    - 309816
+    - 310158
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d10
+    span:
+    - body
+    - 310158
+    - 313383
+  label: 四逆湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6.d10d114
+    span:
+    - body
+    - 312578
+    - 313383
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d11
+    span:
+    - body
+    - 313383
+    - 314396
+  label: 附子粳米湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6.d11d14
+    span:
+    - body
+    - 313524
+    - 314396
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d12
+    span:
+    - body
+    - 314396
+    - 314844
+  label: 薏苡附子散之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6.d12d24
+    span:
+    - body
+    - 314793
+    - 314844
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d13
+    span:
+    - body
+    - 314844
+    - 316240
+  label: 薏苡附子敗醬散之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6.d13d14
+    span:
+    - body
+    - 315045
+    - 316240
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d14
+    span:
+    - body
+    - 316240
+    - 316399
+  label: 敗醬之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d15
+    span:
+    - body
+    - 316399
+    - 316860
+  label: 天雄散之補遺
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6.d15d16
+    span:
+    - body
+    - 316746
+    - 316860
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d16
+    span:
+    - body
+    - 316860
+    - 317099
+  label: 芎歸膠艾湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d17
+    span:
+    - body
+    - 317099
+    - 318154
+  label: 芎歸膠艾湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6.d17d4
+    span:
+    - body
+    - 317285
+    - 318154
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d18
+    span:
+    - body
+    - 318154
+    - 318473
+  label: 芎藭之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d19
+    span:
+    - body
+    - 318473
+    - 318803
+  label: 當歸之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d20
+    span:
+    - body
+    - 318803
+    - 319068
+  label: 艾葉之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d21
+    span:
+    - body
+    - 319068
+    - 319283
+  label: 當歸芍藥散之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d22
+    span:
+    - body
+    - 319283
+    - 321118
+  label: 當歸芍藥散之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6.d22d4
+    span:
+    - body
+    - 319507
+    - 321118
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d23
+    span:
+    - body
+    - 321118
+    - 321272
+  label: 黃土湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d24
+    span:
+    - body
+    - 321272
+    - 322014
+  label: 黃土湯之腹證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6.d24d4
+    span:
+    - body
+    - 321434
+    - 322014
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d6d25
+    span:
+    - body
+    - 322014
+    - 322298
+  label: 黃土之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6d7
+    span:
+    - body
+    - 322298
+    - 329374
+  label: 少陰病篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d7d2
+    span:
+    - body
+    - 322302
+    - 322846
+  label: 少陰病之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d7d3
+    span:
+    - body
+    - 322846
+    - 323929
+  label: 附子湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d7.d3d24
+    span:
+    - body
+    - 323153
+    - 323929
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d7d4
+    span:
+    - body
+    - 323929
+    - 325869
+  label: 真武湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d7.d4d24
+    span:
+    - body
+    - 324615
+    - 325869
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d7d5
+    span:
+    - body
+    - 325869
+    - 326591
+  label: 通脈四逆湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d7.d5d24
+    span:
+    - body
+    - 326239
+    - 326591
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d7d6
+    span:
+    - body
+    - 326591
+    - 327320
+  label: 白通湯及白通加豬膽汁湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d7.d6d20
+    span:
+    - body
+    - 326876
+    - 327320
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d7d7
+    span:
+    - body
+    - 327320
+    - 327458
+  label: 蔥白之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d7d8
+    span:
+    - body
+    - 327458
+    - 327646
+  label: 熊膽之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d7d9
+    span:
+    - body
+    - 327646
+    - 328958
+  label: 桃花湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d7.d9d28
+    span:
+    - body
+    - 328144
+    - 328958
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d7d10
+    span:
+    - body
+    - 328958
+    - 329052
+  label: 赤石脂之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d7d11
+    span:
+    - body
+    - 329052
+    - 329322
+  label: 赤石脂禹餘糧湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d7.d11d14
+    span:
+    - body
+    - 329169
+    - 329322
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d7d12
+    span:
+    - body
+    - 329322
+    - 329374
+  label: 禹餘糧之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6d8
+    span:
+    - body
+    - 329374
+    - 338227
+  label: 厥陰病篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d8d2
+    span:
+    - body
+    - 329378
+    - 331438
+  label: 厥陰病之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d8d3
+    span:
+    - body
+    - 331438
+    - 332360
+  label: 烏梅圓之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d8.d3d22
+    span:
+    - body
+    - 331936
+    - 332360
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d8d4
+    span:
+    - body
+    - 332360
+    - 332540
+  label: 烏梅之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d8d5
+    span:
+    - body
+    - 332540
+    - 334626
+  label: 當歸四逆湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d8.d5d20
+    span:
+    - body
+    - 333048
+    - 334626
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d8d6
+    span:
+    - body
+    - 334626
+    - 335057
+  label: 當歸四逆加吳茱萸生薑湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d8d7
+    span:
+    - body
+    - 335057
+    - 336196
+  label: 當歸四逆加吳茱萸生薑湯方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d8.d7d6
+    span:
+    - body
+    - 335128
+    - 336196
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d8d8
+    span:
+    - body
+    - 336196
+    - 336541
+  label: 通草木通之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d8d9
+    span:
+    - body
+    - 336541
+    - 336675
+  label: 四逆加人參湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d8d10
+    span:
+    - body
+    - 336675
+    - 336944
+  label: 四逆加人參湯方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d8.d10d6
+    span:
+    - body
+    - 336702
+    - 336944
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d8d11
+    span:
+    - body
+    - 336944
+    - 337779
+  label: 茯芩四逆湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d8.d11d18
+    span:
+    - body
+    - 337358
+    - 337779
+  label: 先輩之論說治驗
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d8d12
+    span:
+    - body
+    - 337779
+    - 338227
+  label: 通脈四逆加豬膽汁湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d8.d12d14
+    span:
+    - body
+    - 337967
+    - 338227
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6d9
+    span:
+    - body
+    - 338227
+    - 341647
+  label: 補遺篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d4
+    span:
+    - body
+    - 338263
+    - 338461
+  label: 葵子茯苓散之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9.d4d14
+    span:
+    - body
+    - 338390
+    - 338461
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d5
+    span:
+    - body
+    - 338461
+    - 338525
+  label: 葵子之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d6
+    span:
+    - body
+    - 338525
+    - 338582
+  label: 蒲灰散之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d7
+    span:
+    - body
+    - 338582
+    - 338681
+  label: 蒲灰之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d8
+    span:
+    - body
+    - 338681
+    - 338750
+  label: 滑石白魚散之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d9
+    span:
+    - body
+    - 338750
+    - 338841
+  label: 亂髮霜之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d10
+    span:
+    - body
+    - 338841
+    - 339158
+  label: 鯉魚之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d11
+    span:
+    - body
+    - 339158
+    - 339286
+  label: 茯苓戎鹽湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9.d11d14
+    span:
+    - body
+    - 339263
+    - 339286
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d12
+    span:
+    - body
+    - 339286
+    - 339385
+  label: 戎鹽之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d13
+    span:
+    - body
+    - 339385
+    - 339480
+  label: 麻黃醇酒湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d14
+    span:
+    - body
+    - 339480
+    - 339577
+  label: 半夏麻黃丸之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d15
+    span:
+    - body
+    - 339577
+    - 339743
+  label: 赤丸之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9.d15d14
+    span:
+    - body
+    - 339672
+    - 339743
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d16
+    span:
+    - body
+    - 339743
+    - 339929
+  label: 蜀漆散之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9.d16d14
+    span:
+    - body
+    - 339831
+    - 339929
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d17
+    span:
+    - body
+    - 339929
+    - 339983
+  label: 雲母之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d18
+    span:
+    - body
+    - 339983
+    - 340116
+  label: 礬石湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9.d18d14
+    span:
+    - body
+    - 340049
+    - 340116
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d19
+    span:
+    - body
+    - 340116
+    - 340146
+  label: 礬石之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d20
+    span:
+    - body
+    - 340146
+    - 340499
+  label: 硝石礬石散之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9.d20d16
+    span:
+    - body
+    - 340363
+    - 340499
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d21
+    span:
+    - body
+    - 340499
+    - 340527
+  label: 硝石之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d22
+    span:
+    - body
+    - 340527
+    - 340793
+  label: 礬石丸之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9.d22d16
+    span:
+    - body
+    - 340701
+    - 340793
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d23
+    span:
+    - body
+    - 340793
+    - 340894
+  label: 蛇床子散之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9.d23d8
+    span:
+    - body
+    - 340848
+    - 340894
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d24
+    span:
+    - body
+    - 340894
+    - 340975
+  label: 蛇床子仁之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d25
+    span:
+    - body
+    - 340975
+    - 341206
+  label: 葦莖湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9.d25d14
+    span:
+    - body
+    - 341077
+    - 341206
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d26
+    span:
+    - body
+    - 341206
+    - 341270
+  label: 葦莖之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d27
+    span:
+    - body
+    - 341270
+    - 341458
+  label: 當歸生薑羊肉湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d28
+    span:
+    - body
+    - 341458
+    - 341579
+  label: 柏葉湯之注釋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9.d28d14
+    span:
+    - body
+    - 341521
+    - 341579
+  label: 先輩之論說
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d9d29
+    span:
+    - body
+    - 341579
+    - 341647
+  label: 柏葉之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6d10
+    span:
+    - body
+    - 341647
+    - 352376
+  label: 拾掇篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d374
+    span:
+    - body
+    - 350735
+    - 350951
+  label: 蓖麻子之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d375
+    span:
+    - body
+    - 350951
+    - 351066
+  label: 黑胡麻之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d376
+    span:
+    - body
+    - 351066
+    - 351099
+  label: 輕粉之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d377
+    span:
+    - body
+    - 351099
+    - 351225
+  label: 牛膝之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d378
+    span:
+    - body
+    - 351225
+    - 351309
+  label: 土茯苓之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d379
+    span:
+    - body
+    - 351309
+    - 351333
+  label: 水銀之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d380
+    span:
+    - body
+    - 351333
+    - 351370
+  label: 砒石及綠礬之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d381
+    span:
+    - body
+    - 351370
+    - 351383
+  label: 食鹽之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d382
+    span:
+    - body
+    - 351383
+    - 351406
+  label: 梅肉之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d383
+    span:
+    - body
+    - 351406
+    - 351482
+  label: 龍葵之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d384
+    span:
+    - body
+    - 351482
+    - 351542
+  label: 甘汞及金硫黃之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d385
+    span:
+    - body
+    - 351542
+    - 351626
+  label: 反鼻霜之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d386
+    span:
+    - body
+    - 351626
+    - 351663
+  label: 鼴鼠及鹿角霜之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d387
+    span:
+    - body
+    - 351663
+    - 351774
+  label: 雄黃之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d388
+    span:
+    - body
+    - 351774
+    - 351845
+  label: 爐甘石之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d389
+    span:
+    - body
+    - 351845
+    - 351937
+  label: 浮石之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d390
+    span:
+    - body
+    - 351937
+    - 351951
+  label: 鐵砂之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d391
+    span:
+    - body
+    - 351951
+    - 352002
+  label: 蕎麥之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d392
+    span:
+    - body
+    - 352002
+    - 352073
+  label: 青礞石之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d393
+    span:
+    - body
+    - 352073
+    - 352165
+  label: 白芥子之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d394
+    span:
+    - body
+    - 352165
+    - 352269
+  label: 牽牛子之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d6.d10d395
+    span:
+    - body
+    - 352269
+    - 352376
+  label: 桃花之醫治效用
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef059_jc_000-d7.h1s1
+    span:
+    - body
+    - 352376
+    - 352397
+  label: 引用書目
+  type: section
+  level: 1
+hash: sha256:11b8f9998f1c6b53d026b766c05d713cfe7b31830861fe608b5ff05f15099772
